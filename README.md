@@ -34,13 +34,3 @@ Results demonstrate that EGDIO achieves superior dynamic power savings (~35%) wh
 - `/results` — Output logs, convergence curves, and power-saving metrics.
 
 ---
-
-## 📄 Citation
-If you use this code or reference this work in your research, please cite our conference paper:
-```bibtex
-@inproceedings{garg2026egdio,
-  title={A Novel Nature-Inspired Metaheuristic Approach for Power Optimization in Emissive Displays},
-  author={Garg, Anmol and Gupta, Navya and Kumar, Vineet and Rana, K.P.S.},
-  booktitle={India Display Conference (IDC)},
-  year={2026}
-}
