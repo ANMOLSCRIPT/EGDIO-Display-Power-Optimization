@@ -6,8 +6,8 @@ Official source code, simulation scripts, and evaluation framework for the paper
 ---
 
 ## Authors
-1. Anmol Garg*
-2. Navya Gupta*
+1. Anmol Garg* `(anmol.garg.ug23@nsut.ac.in)`
+2. Navya Gupta* `(navya.gupta.ug23@nsut.ac.in)`
 3. Dr. K.P.S. Rana
 4. Dr. Vineet Kumar
 
