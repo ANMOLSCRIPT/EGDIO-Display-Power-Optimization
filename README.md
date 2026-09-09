@@ -41,5 +41,6 @@ Results demonstrate that EGDIO achieves superior dynamic power savings (~35%) wh
 - `/Image Dataset (Kodak Suite)` — Kodak test image suite references.
 - `display_power_optimization_results.csv` — Comparative results of algorithms across each image.
 - `/Results` — Output logs, convergence curves, and power-saving metrics.
+- `System_architecture.jpeg` - contains the high level system architecture of optimization algorithm at the software level.
 
 ---
