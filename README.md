@@ -5,6 +5,14 @@ Official source code, simulation scripts, and evaluation framework for the paper
 
 ---
 
+## Authors
+1. Anmol Garg*
+2. Navya Gupta*
+3. Dr. K.P.S. Rana
+4. Dr. Vineet Kumar
+
+Affiliation of all authors: Department of Instrumentation and Control, Netaji Subhas University of Technology
+*: Corresponding Authors
 ## 📌 Abstract
 High-resolution emissive displays, such as OLEDs and MicroLEDs, deliver exceptional visual quality but impose heavy demands on battery life. Unlike conventional backlit panels, emissive pixels draw power proportionally to their individual luminance and colour values. This project introduces a novel metaheuristic approach—**Elite Guided Dholes Inspired Optimization (EGDIO)**—to minimize dynamic power consumption while preserving strict visual fidelity.
 
@@ -28,9 +36,9 @@ Results demonstrate that EGDIO achieves superior dynamic power savings (~35%) wh
 ---
 
 ## ⚙️ Repository Structure
-- `/src` — Core EGDIO optimization engine and sub-pixel power modeling scripts.
-- `/data` — Kodak test image suite references and preprocessing pipelines.
-- `/benchmarks` — Comparative simulation scripts for PSO, ACO, and CSA.
-- `/results` — Output logs, convergence curves, and power-saving metrics.
+- `/Matlab Codes` — Core EGDIO optimization engine, PSO, ACO, CSA and sub-pixel power modeling scripts.
+- `/Image Dataset (Kodak Suite)` — Kodak test image suite references.
+- `display_power_optimization_results.csv` — Comparative results of algorithms across each image.
+- `/Results` — Output logs, convergence curves, and power-saving metrics.
 
 ---
